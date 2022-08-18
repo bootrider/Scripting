@@ -1,0 +1,1 @@
+﻿[Diagnostics.Process]::Start("c:\users\cglondono\desktop\longduration.bat","")
